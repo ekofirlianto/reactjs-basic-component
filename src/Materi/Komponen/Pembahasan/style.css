@@ -1,0 +1,31 @@
+.kontainer {
+  max-width: 960px;
+  margin: 80px auto;
+  border: 2px solid black;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+
+.monyet1 {
+  width: 400px;
+  height: 400px;
+}
+
+.monyet2 {
+  width: 400px;
+  height: 400px;
+  padding-top: 40px;
+}
+
+.Header {
+  text-align: center;
+}
+
+.kom {
+  text-align: center;
+}
+
+.func {
+  text-align: center;
+  padding-bottom: 40px;
+}
